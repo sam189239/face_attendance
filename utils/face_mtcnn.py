@@ -9,6 +9,11 @@ from math import floor
 dir = 'H:\\Code\\current_files\\pics\\'
 filename = '123.jpg'
 
+def detect_Faces_img(img):
+    detector = MTCNN()
+    faces = detector.detect_faces(img)
+    return faces
+
 def detect_Faces(filedir):
     img = plt.imread(filedir)
     detector = MTCNN()

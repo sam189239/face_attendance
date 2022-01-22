@@ -1,0 +1,2 @@
+- search for required images in the browser and paste console.js code in console
+- python download_images.py --urls urls.txt --output data\train_imgs\Ben
