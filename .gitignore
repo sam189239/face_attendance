@@ -2,5 +2,6 @@ utils/sample_imgs
 utils/custom_images
 utils/custom_images2
 utils/images1
+utils/models/siamese_model.h5
 utils/images2
 data
