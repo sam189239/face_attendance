@@ -18,6 +18,12 @@
     - Identified
     - Export attendance by validation of members in the image
 
+![alt text](https://github.com/sam189239/face_attendance/blob/main/Documents/train_images.jpg?raw=true)
+
+![alt text](https://github.com/sam189239/face_attendance/blob/main/Documents/test1.jpg?raw=true)
+
+![alt text](https://github.com/sam189239/face_attendance/blob/main/Documents/test2.jpg?raw=true)
+
 
 Project PPT link: 
 
