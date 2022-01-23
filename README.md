@@ -20,6 +20,9 @@ Attendance System based on Siamese model that validates by estimating similarity
     - Identified
     - Export attendance by validation of members in the image
 
+Input images are placed in individual folders (different folder for each person) within the directory data/train_images
+Test image directory is specified in the notebook
+
 ![alt text](https://github.com/sam189239/face_attendance/blob/main/Documents/train_images.jpg?raw=true)
 
 ![alt text](https://github.com/sam189239/face_attendance/blob/main/Documents/test1.jpg?raw=true)
