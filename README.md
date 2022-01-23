@@ -1,5 +1,7 @@
 # Face Recognition based Attendance System
 
+Attendance System based on Siamese model that validates by estimating similarity of test imaages to those in the database. Uses MTCNN for Face Bounding Box extraction and FaceNet for Embedding extraction. Implementation in TensorFlow. 
+
 - Training
 
     - Build database of known and required faces
