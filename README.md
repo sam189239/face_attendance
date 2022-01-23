@@ -2,7 +2,7 @@
 
 - Build database of known and required faces
     - Collect images
-    - Face Recognition
+    - Face Recognition using MTCNN
     - Cropping of face
     - Embeddings using FaceNet
 
