@@ -6,7 +6,8 @@
     - Collect images
     - Face Recognition using MTCNN
     - Cropping of face
-    - Embeddings using FaceNet
+    - Embeddings extracted using FaceNet
+    - Database formulation
 
 - Testing
 
