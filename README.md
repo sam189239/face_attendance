@@ -14,7 +14,7 @@ Attendance System based on Siamese model that validates by estimating similarity
 - Testing
 
     - Test image loaded
-    - Images in face identified
+    - Faces in image identified
     - Embeddings extracted for test image faces
     - Compared with database for similarity
     - Identified
